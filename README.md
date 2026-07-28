@@ -10,11 +10,11 @@ Este projeto foi desenvolvido com o propósito de aplicar conceitos práticos de
 
 🛠️Tecnologias Utilizadas
 
-Linguagem: Python
-Interface Gráfica: [Streamlit](https://streamlit.io/)
-Manipulação de Dados: [Pandas](https://pandas.pydata.org/)
-Visualização de Dados: [Matplotlib](https://matplotlib.org/)
-Banco de Dados: MySQL (`mysql-connector-python`)
+- Linguagem: Python
+- Interface Gráfica: [Streamlit](https://streamlit.io/)
+- Manipulação de Dados: [Pandas](https://pandas.pydata.org/)
+- Visualização de Dados: [Matplotlib](https://matplotlib.org/)
+- Banco de Dados: MySQL (`mysql-connector-python`)
 
 
 #🚀Funcionalidades
